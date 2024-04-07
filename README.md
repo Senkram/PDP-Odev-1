@@ -1,13 +1,48 @@
-Odev RAPOR
-
-Kadir Tuna Yiğit
-B221210378
-1-C
-
-Java dilini ilk defa kullandığım için zorlandığım kısımlar oldu ama genel olarak diğer dillere benzediği için istediklerimi yapabildim.
-Büyü ve büyücülerle ilgili küçük çaplı bir program yapmak istedim.
-Ödeve 2 Nisan’da başladım.
-Birçok sınıf oluşturdum ve ileride parametrelerinin artacağını düşündüğüm için bazı küçük sınıflar da bulunmakta.
-Fonksiyonları ve verileri kolay okunabilir yapmak istedim ve birçok fonksiyon oluşturdum.
-Java dilinin nesne yapılı olduğunu ve birçok kez sınıf kullanmamız gerektiğini dersler eşliğinde fark ettim.
-Projemi daha da büyütmek isterdim ancak birçok meşguliyetim olduğu ve benden istenilen bazı şeyleri anlayamadığım veya geç anladığım için programım çok büyük olmadı.
+Sınıf: Buyu.java
+Javadoc Satır Sayısı: 1
+Yorum Satır Sayısı: 9
+Kod Satır Sayısı: 50
+LOC: 62
+Fonksiyon Sayısı: 8
+Yorum Sapma Yüzdesi:?
+-----------------------------------------
+Sınıf: BuyuSeviyesi.java
+Javadoc Satır Sayısı: 1
+Yorum Satır Sayısı: 8
+Kod Satır Sayısı: 10
+LOC: 22
+Fonksiyon Sayısı: 2
+Yorum Sapma Yüzdesi:?
+-----------------------------------------
+Sınıf: Mana.java
+Javadoc Satır Sayısı: 1
+Yorum Satır Sayısı: 8
+Kod Satır Sayısı: 20
+LOC: 32
+Fonksiyon Sayısı: 3
+Yorum Sapma Yüzdesi:?
+-----------------------------------------
+Sınıf: Buyucu.java
+Javadoc Satır Sayısı: 2
+Yorum Satır Sayısı: 8
+Kod Satır Sayısı: 72
+LOC: 84
+Fonksiyon Sayısı: 7
+Yorum Sapma Yüzdesi:?
+-----------------------------------------
+Sınıf: BuyucuSeviyesi.java
+Javadoc Satır Sayısı: 1
+Yorum Satır Sayısı: 8
+Kod Satır Sayısı: 11
+LOC: 23
+Fonksiyon Sayısı: 2
+Yorum Sapma Yüzdesi:?
+-----------------------------------------
+Sınıf: Main.java
+Javadoc Satır Sayısı: 2
+Yorum Satır Sayısı: 8
+Kod Satır Sayısı: 13
+LOC: 28
+Fonksiyon Sayısı: 1
+Yorum Sapma Yüzdesi:?
+----------------------------------------
